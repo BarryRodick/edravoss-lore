@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Lore ideas and feedback
+    url: https://github.com/BarryRodick/edravoss-lore/discussions
+    about: Share high-level ideas, questions, typo reports, and feedback in Discussions.

@@ -2,6 +2,8 @@
 
 This repository contains the official public lore of Edravoss.
 
+Visit the [Edravoss public lore website](https://barryrodick.github.io/edravoss-lore/) or read the source material here on GitHub.
+
 The public canon begins deliberately small. Only files under [`lore/`](lore/)
 that declare `status: public-canon` are canon. Drafts, game material, private
 development history, and anything not published in this repository establish
@@ -19,3 +21,4 @@ At launch, lore ideas and feedback belong in GitHub Discussions. External pull
 requests are not accepted, and external story text or assets will not be
 reviewed until contributor terms have been approved. See
 [Contributing](CONTRIBUTING.md).
+

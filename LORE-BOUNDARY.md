@@ -18,6 +18,11 @@ Only deliberately approved, spoiler-safe setting text may enter `lore/`. Every
 entry must have recorded provenance and must be original to Edravoss or have
 documented permission for public use.
 
+Original presentation artwork may be published outside `lore/` only after an
+explicit publication review. Its source or generation method, creation date,
+rights basis, alt text, and non-canon status must be recorded. Generated
+artwork must also retain its prompts.
+
 ## What stays private
 
 The public lore repository must not contain or reproduce:
@@ -31,7 +36,8 @@ The public lore repository must not contain or reproduce:
   guidance;
 - third-party prose, art, maps, audio, trademarks used as assets, or other
   proprietary material without documented permission; or
-- draft, placeholder, generated, or otherwise unapproved assets.
+- draft, placeholder, or otherwise unapproved assets. Generated assets require
+  the explicit review and publication record above.
 
 Unknown or ambiguous material stays private until it receives an explicit
 publication review.

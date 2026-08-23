@@ -1,5 +1,8 @@
 # Website artwork
 
+**Status:** reviewed non-canon presentation art  
+**Publication approval:** Barry Rodick, 23 August 2026, PR #1 implementation instruction
+
 These images are original presentation artwork for the Edravoss public lore website. They are not lore canon. They establish no character, place, faction, event, creature or artefact.
 
 The images were generated with OpenAI's built-in image-generation tool on 23 August 2026. Their use follows the repository's `COPYRIGHT.md`. No public reuse licence is granted by their presence in the repository.

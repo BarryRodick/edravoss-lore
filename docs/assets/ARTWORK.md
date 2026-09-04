@@ -8,8 +8,8 @@ support the tone and ideas of the setting; exact depicted people, places and
 glyph shapes do not by themselves establish canon.
 
 The images were generated with OpenAI's built-in image-generation tool in
-August 2026. Their use follows the repository's `COPYRIGHT.md`. No public reuse
-licence is granted by their presence in the repository.
+August and September 2026. Their use follows the repository's `COPYRIGHT.md`.
+No public reuse licence is granted by their presence in the repository.
 
 ## `edravoss-road.jpg`
 
@@ -29,11 +29,20 @@ Prompt:
 
 ## `edravoss-world.jpg`
 
-Alt text: Two isolated mountain settlements above a layered network of roads and waterways cut through the rock.
+Alt text: A clear patch of sky lights isolated mountain basins above a diagonal rock cut, while a caravan follows a river through the dark Below.
 
-Prompt:
+Creation date: 4 September 2026
 
-> Portrait fantasy book-cover artwork for Edravoss. Show a regional mountain landscape rather than a globe. Two farmed cities occupy separate, enclosed green basins divided by immense sheer black ridges, glaciers and subtly charged storms that make surface travel implausible. Beneath the terrain, use a restrained cutaway to reveal shallow, human-scale tunnel roads with wagons, travellers and a waystation, plus a flooded lower route carrying a barge. Keep the geology solid and believable. No prominent molten core, diagram labels, text, logos or oversized tunnels. The world above and its underground transport network are the subjects. Dark painterly epic-fantasy realism, portrait composition, clear space near the top for a future title.
+Generation method: OpenAI built-in image generation, using an original
+generated Below scene followed by four directed image edits.
+
+Rights basis: Original generated presentation artwork directed and approved by
+Barry Rodick. No third-party source image or asset was used.
+
+Canon status: Non-canon presentation artwork. The depicted settlement,
+travellers, waystone, waystation, terrain and route do not establish canon.
+
+Prompt record: [`edravoss-world-prompts.md`](edravoss-world-prompts.md)
 
 ## `road-speech-wall.jpg`
 

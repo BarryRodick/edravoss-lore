@@ -29,12 +29,13 @@ Prompt:
 
 ## `edravoss-world.jpg`
 
-Alt text: A clear patch of sky lights isolated mountain basins above a diagonal rock cut, while a caravan follows a river through the dark Below.
+Alt text: A farming basin lies above a diagonal rock divide. Below, a caravan waits on a dry shelf while scouts examine higher ledges beyond a flooded crossing.
 
 Creation date: 4 September 2026
 
 Generation method: OpenAI built-in image generation, using an original
-generated Below scene followed by four directed image edits.
+generated Below scene followed by four directed image edits and the world-life
+revision described below.
 
 Rights basis: Original generated presentation artwork directed and approved by
 Barry Rodick. No third-party source image or asset was used.
@@ -42,11 +43,17 @@ Barry Rodick. No third-party source image or asset was used.
 Canon status: Non-canon presentation artwork. The depicted settlement,
 travellers, waystone, waystation, terrain and route do not establish canon.
 
-Prompt record: [`edravoss-world-prompts.md`](edravoss-world-prompts.md)
+Prompt records: original sequence in
+[`edravoss-world-prompts.md`](edravoss-world-prompts.md); final world-life
+revision in [`world-life-prompts.md`](world-life-prompts.md).
 
 ## `road-speech-wall.jpg`
 
-Alt text: A wet tunnel wall crowded with rough arrows, counts and warning marks left by travellers.
+Alt text: Fresh charcoal, faint scratches and weathered deep cuts overlap on a wet wall; a cancelled warning remains beside a newer account.
+
+Revision date: 4 September 2026. The original generated wall was edited with
+OpenAI's built-in image-generation tool to distinguish ages, materials and
+superseded warnings. Exact prompt: [`world-life-prompts.md`](world-life-prompts.md).
 
 Prompt:
 
@@ -67,3 +74,29 @@ Alt text: A pale mineral flood line cuts across older marks on a dark tunnel wal
 Prompt:
 
 > Empty Edravoss tunnel after repeated floods. A pale mineral flood line crosses a dark, rough wall. Below it, most old scratches and charcoal marks have been erased, filled or crusted over; above it, fragments of crooked counts and route warnings survive without enough context to explain them. Debris and a thin stream remain on the floor, with cold daylight far down the passage. No readable modern text, neat runes, people, monsters, magical glow, logo or watermark. Somber archaeological realism, horizontal composition.
+
+## `basin-home.jpg`
+
+Alt text: In a sheltered basin yard, a family mends a red sleeve beside a shared oven while hauliers load supplies beneath dry grain stores.
+
+Creation date: 4 September 2026.
+
+Generation method: OpenAI built-in image generation, without an input image.
+The exact prompt is in [`world-life-prompts.md`](world-life-prompts.md).
+
+Rights basis: Original generated presentation artwork developed at Barry
+Rodick's direction. No third-party source image or asset was used.
+
+Canon status: Non-canon presentation artwork. The anonymous people, buildings
+and basin illustrate the accompanying lore without establishing a named place
+or historical event.
+
+## World-life revision review
+
+On 4 September 2026, Barry Rodick requested implementation of the reviewed
+world-logic and visual improvements in the lore and public-facing site. This
+revision covers `edravoss-world.jpg`, `road-speech-wall.jpg` and
+`basin-home.jpg`. The images were checked against that requested scope and the
+accompanying lore. Built-in generated PNGs were exported to JPEG for the site,
+without additional creative edits. Publication occurs when the reviewed change
+is incorporated into the site's default branch.

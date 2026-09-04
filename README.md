@@ -9,8 +9,11 @@ that declare `status: public-canon` are canon. Drafts, game material, private
 development history, and anything not published in this repository establish
 nothing about the setting.
 
-Start with [The foundation](lore/foundation.md), then read the
-[public lore boundary](LORE-BOUNDARY.md).
+Start with [The foundation](lore/foundation.md), then explore
+[Above and Below](lore/above-and-below.md),
+[Road Speech and the Cut](lore/road-speech.md), and
+[A basin and its road](lore/a-basin-and-its-road.md).
+The [public lore boundary](LORE-BOUNDARY.md) explains what establishes canon.
 
 ## Rights and participation
 

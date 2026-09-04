@@ -2,6 +2,8 @@
 title: Road Speech and the Cut
 status: public-canon
 published: 2026-08-26
+updated: 2026-09-04
+provenance: Original Edravoss lore. Additions on teaching and warning practice developed at Barry Rodick's direction from the public text, with AI assistance.
 ---
 
 # Road Speech and the Cut
@@ -17,6 +19,12 @@ underground: road, water, open, closed, above, below, enter and return.
 As floods, collapses, failed works and sealed gates divided the network,
 settlements became isolated. Hearth Speech changed with each community. Road
 Speech survived because changing a recognised warning could kill somebody.
+
+Keeping it shared takes work. Guides teach its core calls to apprentices.
+Hauliers compare unfamiliar marks at working waystations, and returning
+travellers correct variations that could send someone down the wrong passage.
+Accents and local signs persist. A community long out of contact can lose parts
+of the shared vocabulary; reunion does not guarantee understanding.
 
 Road Speech is deliberately brief. It is made to be shouted through water and
 echoes, understood by strangers and reduced to marks when there is no time for
@@ -48,6 +56,33 @@ hammered away. Poor settlements and lost expeditions may never enter a formal
 record at all.
 
 The walls do not preserve one history. They preserve the argument.
+
+## Reading a warning
+
+A warning is an account of conditions when someone saw them. It does not
+promise that those conditions remain. At a junction, a traveller places the
+warning beside the relevant opening or adds a direction mark. A water warning
+may point to a scratched level on the same rock. A personal mark can identify
+the witness to people who know it.
+
+Fresh charcoal and sharp scratches are clues to age, but shelter and running
+water weather marks differently. Travellers compare the warning with present
+water, footing and returning accounts. A missing mark proves nothing. When
+conditions cannot be checked from safe ground, a scout must look ahead or the
+party must choose another way.
+
+On roads still in regular use, a diagonal cancellation stroke across a warning
+means that someone disputes or replaces it. The new account is placed beside
+the old one with its own witness mark when possible. Cancellation does not
+mean that the road is safe. If the accounts cannot be reconciled, the warning
+remains unresolved.
+
+At maintained waystations, keepers set current route reports apart from the
+walls used for long records. They ask returning travellers where they went
+and how many days ago they saw the conditions. Those spoken details often
+carry more than the Cut can hold. Cutters preserve older accounts even when
+the immediate warning has been replaced. People can dispute who caused a loss
+while still agreeing that a lower passage is flooded.
 
 ## Names on the road
 

@@ -12,6 +12,12 @@ Repository policies, Discussions, issues, pull requests, commit messages, and
 other files are not canon. Material that exists in a private Edravoss project
 is not public canon and must not be inferred from references or omissions here.
 
+The website presents this lore in a shorter form and links to its source
+entries. Setting claims on the website must be supported by those entries.
+Presentation artwork and promotional descriptions of stories do not establish
+additional canon. The unnamed journey in `lore/a-basin-and-its-road.md` is an
+illustrative account of the setting, not a named historical event or Mission.
+
 ## What may be published
 
 Only deliberately approved, spoiler-safe setting text may enter `lore/`. Every

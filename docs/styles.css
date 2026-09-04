@@ -74,6 +74,7 @@ img {
 .number,
 .speech-lines,
 .story-kicker,
+.source-link,
 .status,
 figcaption,
 footer {
@@ -117,7 +118,7 @@ footer {
 .hero::before {
   position: absolute;
   z-index: -1;
-  right: -15vw;
+  right: 0;
   bottom: 0;
   width: 70vw;
   height: 55%;
@@ -306,12 +307,77 @@ h1 {
 
 .wide-image img {
   width: 100%;
+  height: auto;
   max-height: 48rem;
   object-fit: cover;
 }
 
 .tunnel-copy {
   grid-column: 2;
+}
+
+.source-link {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  text-underline-offset: 0.25em;
+}
+
+.source-link a:hover {
+  color: var(--ink);
+}
+
+.journey {
+  padding-top: 0;
+}
+
+.journey .section-heading {
+  max-width: 48rem;
+}
+
+.journey-intro {
+  max-width: 45rem;
+  margin-top: 2rem;
+}
+
+.home-image {
+  margin: 3rem 0;
+}
+
+.home-image img {
+  width: 100%;
+  height: auto;
+}
+
+.journey-stages {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.journey-stages li {
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+}
+
+.journey-stages h3,
+.warning-copy h3 {
+  font-size: 1.7rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.journey-stages li > p:last-child,
+.warning-copy p {
+  color: var(--muted);
+}
+
+.warning-copy {
+  max-width: 45rem;
+  margin: 0 0 4rem auto;
+  font-size: 1.05rem;
 }
 
 blockquote {
@@ -512,6 +578,10 @@ a:focus-visible {
   .stories,
   .speech-intro,
   .story-card {
+    grid-template-columns: 1fr;
+  }
+
+  .journey-stages {
     grid-template-columns: 1fr;
   }
 

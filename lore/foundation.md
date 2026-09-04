@@ -2,6 +2,8 @@
 title: Edravoss
 status: public-canon
 published: 2026-08-03
+updated: 2026-09-04
+provenance: Original Edravoss foundation. Reading links added at Barry Rodick's direction to connect the public setting entries.
 ---
 
 # Edravoss
@@ -14,3 +16,7 @@ This first entry establishes only that broad foundation. It establishes no
 named character, place, faction, event, chronology, creature, artefact, or
 system of magic. Those details become public canon only when a later entry
 states them directly.
+
+Continue with [Above and Below](above-and-below.md),
+[Road Speech and the Cut](road-speech.md), and
+[A basin and its road](a-basin-and-its-road.md).

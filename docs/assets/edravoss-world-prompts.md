@@ -1,7 +1,8 @@
 # Edravoss world artwork prompts
 
-These are the prompts retained for the published `edravoss-world.jpg` image.
-Each edit used the preceding generated image as Image 1.
+These are the original prompts retained for `edravoss-world.jpg` before its
+world-life revision. Each edit used the preceding generated image as Image 1.
+The subsequent edit is recorded in [world-life-prompts.md](world-life-prompts.md).
 
 ## 1. Base Below scene
 

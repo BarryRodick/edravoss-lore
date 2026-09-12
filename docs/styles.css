@@ -555,6 +555,12 @@ a:focus-visible {
   outline-offset: 4px;
 }
 
+@media (max-width: 64rem) {
+  .stories {
+    grid-template-columns: 1fr;
+  }
+}
+
 @media (max-width: 54rem) {
   .site-header nav a:nth-child(-n + 2) {
     display: none;

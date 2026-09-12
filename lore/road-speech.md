@@ -2,8 +2,8 @@
 title: Road Speech and the Cut
 status: public-canon
 published: 2026-08-26
-updated: 2026-09-04
-provenance: Original Edravoss lore. Additions on teaching and warning practice developed at Barry Rodick's direction from the public text, with AI assistance.
+updated: 2026-09-12
+provenance: Original Edravoss lore. Teaching, warning practice and return-account additions developed at Barry Rodick's direction, with AI assistance.
 ---
 
 # Road Speech and the Cut
@@ -83,6 +83,26 @@ and how many days ago they saw the conditions. Those spoken details often
 carry more than the Cut can hold. Cutters preserve older accounts even when
 the immediate warning has been replaced. People can dispute who caused a loss
 while still agreeing that a lower passage is flooded.
+
+## What a return count leaves out
+
+A count can be accurate and still leave people with a false account of a
+journey. It records how many returned, not whether the road was passable when they
+entered, when the water rose, or why someone went back. A witness mark beside
+an old warning does not by itself establish responsibility for a later loss.
+
+Nor does everyone returning mean that nothing was lost. A caravan may bring
+home injured people, damaged gear and empty sacks. A short entrance warning
+cannot carry all of that. Where fuller reports are kept, a recorder can retain
+the witnesses' accounts alongside the count: where they reached, what changed,
+what they saw for themselves and what they could not check. A light across a
+river belongs in the account as a light seen, not a waystation reached.
+
+Keeping an account is more than agreeing to hear it. Someone must know where
+it is held and be able to find it for the next travellers. A warning cut deep
+in stone may outlast the person who could explain it. A fuller report may
+remain out of reach even while its few surviving marks shape a family's
+reputation.
 
 ## Names on the road
 

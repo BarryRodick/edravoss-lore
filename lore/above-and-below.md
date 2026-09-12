@@ -2,7 +2,8 @@
 title: Above and Below
 status: public-canon
 published: 2026-09-04
-provenance: Original Edravoss setting text developed at Barry Rodick's direction from the public lore and website, with AI assistance.
+updated: 2026-09-12
+provenance: Original Edravoss setting text developed at Barry Rodick's direction from the public lore and website, with AI assistance. Return-journey consequences expanded at his direction on 2026-09-12.
 ---
 
 # Above and Below
@@ -92,3 +93,16 @@ that admits a small party may be unable to sustain them.
 Sheltered stopping places and changing connections give journeys their rhythm.
 People wait, compare accounts, repair gear and decide whether they have enough
 left to continue. Turning back while they still can is part of knowing the road.
+
+## Coming home empty
+
+A caravan can bring everyone home and still leave its basin in difficulty.
+Food and fodder have been consumed, tools lost, and working hands hurt. The
+stores that prompted the journey have continued to shrink. Families can be
+relieved to see the travellers and frightened by the empty sacks they carry.
+
+Turning back preserves people who may mend gear, guide another attempt or
+explain why the first road failed. Their report can save another caravan from
+repeating the journey, but it cannot feed the settlement. Someone must still
+arrange another supply, change the ration or find another way to meet the need.
+A safe return gives a community more choices; it does not settle the cost.

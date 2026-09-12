@@ -13,6 +13,10 @@ Start with [The foundation](lore/foundation.md), then explore
 [Above and Below](lore/above-and-below.md),
 [Road Speech and the Cut](lore/road-speech.md), and
 [A basin and its road](lore/a-basin-and-its-road.md).
+[Those who keep the road](lore/those-who-keep-the-road.md) follows the people
+who repair crossings and control passage.
+[A place at the hearth](lore/a-place-at-the-hearth.md) explores departure,
+absence and coming home.
 The [public lore boundary](LORE-BOUNDARY.md) explains what establishes canon.
 
 ## Rights and participation

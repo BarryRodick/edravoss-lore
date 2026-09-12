@@ -2,7 +2,7 @@
 title: Edravoss
 status: public-canon
 published: 2026-08-03
-updated: 2026-09-04
+updated: 2026-09-12
 provenance: Original Edravoss foundation. Reading links added at Barry Rodick's direction to connect the public setting entries.
 ---
 
@@ -20,3 +20,5 @@ states them directly.
 Continue with [Above and Below](above-and-below.md),
 [Road Speech and the Cut](road-speech.md), and
 [A basin and its road](a-basin-and-its-road.md).
+Then meet [Those who keep the road](those-who-keep-the-road.md) and the
+households waiting in [A place at the hearth](a-place-at-the-hearth.md).

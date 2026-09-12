@@ -8,8 +8,40 @@ support the tone and ideas of the setting; exact depicted people, places and
 glyph shapes do not by themselves establish canon.
 
 The images were generated with OpenAI's built-in image-generation tool in
-August and September 2026. Their use follows the repository's `COPYRIGHT.md`.
+August and September 2026, with the current website set remade on 12 September
+2026. Their use follows the repository's `COPYRIGHT.md`.
 No public reuse licence is granted by their presence in the repository.
+
+## Current website artwork review
+
+On 12 September 2026, Barry Rodick requested a remake of the website images
+and selected built-in generation. The six images currently used by the site
+were remade from their existing original generated counterparts. The tool
+does not expose its underlying model identifier; no exact model version is
+claimed for these outputs.
+
+The refresh covers `edravoss-world.jpg`, `basin-home.jpg`,
+`road-speech-wall.jpg`, `road-speech-warning.jpg`,
+`road-speech-floodline.jpg` and `what-we-bring-home.jpg`.
+The retained `edravoss-road.jpg` is not displayed by the current site and was
+not part of this refresh.
+
+The selected images received a visual review for consistency with the public
+setting, believable anatomy and materials, legible subjects, and the site's
+cropping. The original generated references and new outputs contain no
+third-party source artwork. Rights remain governed by `COPYRIGHT.md`, and all
+depicted people, places and marks remain non-canon presentation details.
+
+The original PNG outputs were exported to JPEG for the website, without
+additional creative edits. The prompt record includes the initial generations
+and the directed corrections to the traveller's warning and the still-life.
+Publication follows the requested website update through the repository's
+reviewed main branch.
+
+Exact refresh prompts:
+[`2026-09-12-artwork-refresh-prompts.md`](2026-09-12-artwork-refresh-prompts.md).
+The entries below retain the earlier generation records; their alt text
+describes the current images.
 
 ## `edravoss-road.jpg`
 
@@ -21,7 +53,7 @@ Prompt:
 
 ## `what-we-bring-home.jpg`
 
-Alt text: A travel-worn pack, plain keepsakes and an unmarked map rest on a table beside a rain-streaked window.
+Alt text: A travel-worn open pack, an unlabelled map, mended cloth, a plain stone, greenery and a chipped metal cup rest on a table beside a rainy window.
 
 Prompt:
 
@@ -61,7 +93,7 @@ Prompt:
 
 ## `road-speech-warning.jpg`
 
-Alt text: A soaked traveller hurriedly scratches a simple warning into the tunnel wall while companions hold a lamp.
+Alt text: Three soaked travellers pause in a flooded passage while one scratches a small warning into wet stone and another holds a flame lamp.
 
 Prompt:
 

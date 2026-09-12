@@ -4,6 +4,10 @@ This repository contains the official public lore of Edravoss.
 
 Visit the [Edravoss public lore website](https://barryrodick.github.io/edravoss-lore/) or read the source material here on GitHub.
 
+The website also includes a [coming-soon game preview](https://barryrodick.github.io/edravoss-lore/#game)
+with reviewed screenshots of *Edravoss: The Broken Road* in development.
+The preview does not establish setting canon or provide a playable release.
+
 The public canon begins deliberately small. Only files under [`lore/`](lore/)
 that declare `status: public-canon` are canon. Drafts, game material, private
 development history, and anything not published in this repository establish

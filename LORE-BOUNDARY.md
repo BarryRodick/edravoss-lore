@@ -30,6 +30,14 @@ explicit publication review. Its source or generation method, creation date,
 rights basis, alt text, and non-canon status must be recorded. Generated
 artwork must also retain its prompts.
 
+The game preview requested by Barry Rodick on 12 September 2026 may include
+the three reviewed development screenshots listed in
+`docs/assets/GAME-PREVIEW.md`, with a short promotional description and a
+clear work-in-progress label. These screenshots may show the practice board
+and its interface, but establish no setting canon. This approval covers the
+listed images only; it does not publish the game, its source, or other private
+development material.
+
 ## What stays private
 
 The public lore repository must not contain or reproduce:
@@ -37,7 +45,7 @@ The public lore repository must not contain or reproduce:
 - game code, mechanics, rules, tests, specifications, or save data;
 - research notes, research excerpts, source comparisons, or private design
   reasoning;
-- prototypes or playtest material;
+- prototypes or playtest material, except the reviewed screenshots listed above;
 - released or unreleased Mission content, solutions, outcomes, or spoilers;
 - private issues, discussions, working notes, repository history, or internal
   guidance;

@@ -63,6 +63,7 @@ img {
   width: min(calc(100% - 2rem), var(--max-width));
   align-items: center;
   justify-content: space-between;
+  gap: 1.5rem;
   padding: 1.4rem 0;
   transform: translateX(-50%);
 }
@@ -82,6 +83,7 @@ footer {
 }
 
 .wordmark {
+  flex-shrink: 0;
   font-size: 0.9rem;
   font-weight: 800;
   letter-spacing: 0.28em;
@@ -90,13 +92,16 @@ footer {
 
 .site-header nav {
   display: flex;
-  gap: clamp(1rem, 3vw, 2rem);
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.5rem clamp(0.75rem, 1.7vw, 1.4rem);
   font-size: 0.82rem;
 }
 
 .site-header nav a {
   color: var(--muted);
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .site-header nav a:hover,
@@ -508,6 +513,59 @@ figcaption {
   color: var(--moss);
 }
 
+.game {
+  border-top: 1px solid var(--line);
+}
+
+.game-heading {
+  display: grid;
+  grid-template-columns: minmax(15rem, 0.78fr) minmax(20rem, 1.45fr);
+  gap: clamp(2.5rem, 8vw, 8rem);
+  align-items: start;
+  margin-bottom: clamp(2.5rem, 5vw, 4rem);
+}
+
+.game-copy {
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.game-view-note {
+  margin: 1.75rem 0 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 0.8rem;
+}
+
+.game-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(1.5rem, 3vw, 2.5rem);
+}
+
+.game-gallery figure {
+  margin: 0;
+}
+
+.game-featured {
+  grid-column: 1 / -1;
+}
+
+.game-gallery a {
+  display: block;
+  border: 1px solid var(--line);
+  background: var(--night-soft);
+}
+
+.game-gallery a:hover,
+.game-gallery a:focus-visible {
+  border-color: var(--ember);
+}
+
+.game-gallery img {
+  width: 100%;
+  height: auto;
+}
+
 .closing {
   display: grid;
   min-height: 28rem;
@@ -576,7 +634,8 @@ a:focus-visible {
   .tunnels,
   .stories,
   .speech-intro,
-  .story-card {
+  .story-card,
+  .game-heading {
     grid-template-columns: 1fr;
   }
 
@@ -613,6 +672,17 @@ a:focus-visible {
 @media (max-width: 36rem) {
   .site-header nav a {
     display: none;
+  }
+
+  .site-header nav .game-nav-link {
+    display: inline-flex;
+    min-height: 2.75rem;
+    align-items: center;
+    color: var(--ink);
+  }
+
+  .game-gallery {
+    grid-template-columns: 1fr;
   }
 
   .speech-lines p {
